@@ -1,7 +1,7 @@
 <h1 align="center"> Snapclima </h1>
 
 <p align="center">
-O Snapclima busca a localização do usuário em tempo real e mostra as condições climáticas dessa localização, com base em uma API externa. Também é possível buscar as condições climáticas de qualquer cidade do mundo, também em tempo real. <br/>
+O Snapclima busca a localização do usuário em tempo real e mostra as condições climáticas dessa localização, com base em uma API externa. Também é possível buscar, em tempo real, as condições climáticas de qualquer cidade do mundo. <br/>
 </p>
 
 <p align="center">
